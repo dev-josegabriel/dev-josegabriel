@@ -33,6 +33,7 @@ public class Developer {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -43,16 +44,43 @@ public class Developer {
 
 ---
 
-## 🚀 Projects
+## 🚀 Projetos
+
+### 🔧 Backend / APIs
 
 <div align="center">
 
-| Project | Description | Tech |
+| Projeto | Descrição | Tech |
 |--------|-------------|------|
-| [📚 Library API](https://github.com/josegabriel2006/Library) | RESTful API for managing a book catalog | Java · Spring Boot · PostgreSQL |
-| [🎮 Games Catalog API](https://github.com/josegabriel2006/CatalogGames) | RESTful API to track your personal game collection | Java · Spring Boot · PostgreSQL |
+| [📚 bibliotecaAPI](https://github.com/dev-josegabriel/bibliotecaAPI) | API REST para gestão de biblioteca (usuários, livros, empréstimos) | Java · Spring Boot · PostgreSQL · JPA |
 
 </div>
+
+### 🧠 Estudos & Estruturas de Dados
+
+<div align="center">
+
+| Projeto | Descrição | Tech |
+|--------|-------------|------|
+| [⏱️ fila_prioritaria](https://github.com/dev-josegabriel/fila_prioritaria) | Implementação de fila de prioridade | Python |
+| [🧮 Calculadora_Java](https://github.com/dev-josegabriel/Calculadora_Java) | Calculadora simples em Java | Java |
+| [✅ To_Do_List](https://github.com/dev-josegabriel/To_Do_List) | Lista de tarefas full stack | Java · HTML · CSS · JavaScript |
+
+</div>
+
+### 🎨 Portfólio
+
+<div align="center">
+
+| Projeto | Descrição | Tech |
+|--------|-------------|------|
+| [🌐 MeuPortfolio](https://github.com/dev-josegabriel/MeuPortfolio) | Site pessoal de portfólio | HTML · CSS · JavaScript |
+
+</div>
+
+<br/>
+
+> 💼 Também desenvolvo APIs e sistemas privados para clientes (projetos Metarun) — não listados aqui por serem de uso privado.
 
 <br/>
 
@@ -62,7 +90,7 @@ public class Developer {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=josegabriel2006&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev-josegabriel&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -74,7 +102,7 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=josegabriel2006&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-josegabriel&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
